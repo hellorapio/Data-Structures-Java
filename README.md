@@ -6,6 +6,7 @@ Take A Look
 ## Table of Contents
 1. [LinkedList](#LinkedList)
 2. [Queues](#Queues)
+3. [Stacks](#Stacks)
 
 
 ## LinkedList
@@ -71,6 +72,7 @@ The Comments are the Output
 
 Queue Data Structure With its Operation based on 2 Implementations :
 Arrays and LinkedLists
+
 Differences that :
 Array is Size Locked and Have isFull() Method
 LinkedList is Not Size Locked and Doesn't have isFull() Method
@@ -134,6 +136,7 @@ The Comments are the Output
 
 Stack Data Structure With its Operation based on 2 Implementations :
 Arrays and LinkedLists
+
 Differences that :
 Array is Size Locked and Have isFull() Method
 LinkedList is Not Size Locked and Doesn't have isFull() Method
