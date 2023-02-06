@@ -37,7 +37,8 @@ public class ArrayStack<T> {
   }
   public void display() {
     for (int i = top; i >= 0; i--) {
-      System.out.println(ARR[i]);
+      System.out.print(ARR[i] + " ");
     }
+    System.out.print("\n");
   }
 }

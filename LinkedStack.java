@@ -41,10 +41,9 @@ public class LinkedStack<T> {
   public void display() {
     Node<T> current = head;
     for (int i = 0; i < size();i++) {
-      System.out.println(current.data);
-      if (current.next != null) {
-        current = current.next;
-      }
+      System.out.print(current.data + " ");
+      if (current.next != null) current = current.next;
     }
+    System.out.print("\n");
   }
 }
